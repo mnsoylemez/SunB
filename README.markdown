@@ -70,7 +70,7 @@ Contributions are welcome! To contribute:
 Please ensure your code follows PEP 8 style guidelines and includes appropriate tests.
 
 ## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+See the `LICENSE` file for details.
 
 ## Contact
-For questions or suggestions, please open an issue on the [GitHub repository](https://github.com/mnsoylemez/SunB) or contact the maintainer at [your-email@example.com].
+For questions or suggestions, please open an issue on the [GitHub repository](https://github.com/mnsoylemez/SunB) or contact the maintainer at [soylemeznurhan@gmail.com].
